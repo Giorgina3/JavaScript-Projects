@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="eng">
+    <head>
+        <link rel="stylesheet" href="./JavaScript/CSS/CSS_1.css">
+    </head>
+    <body>
+        <h2>Html Forms</h2>
+    
+       <div>
+        <form name="myForm" action="/action_page.php" onsubmit="return validateForm()" method="post"></form>
+        <form action="/actiona_page.php">
+            <label for="fname">First Name:</label><br>
+            <input type="text" id="fname" name="fname" placeholder="Your name..">
+
+            <label for="lname">Last Name:</label><br>
+            <input type="text" id="lname" name="lname" placeholder="Your last name..">
+
+            <input type="submit" value="Submit">
+        </form>
+        </div>
+
+        <p>If you click the "Submit" button, the form-data will be sent to a page called "/action_page.php".</p>
+
+    </body>
+</html>
