@@ -1,2 +1,2 @@
 # JavaScript-Projects
-This repository is containing some small projects i made using JavaScript
+This repository is containing some small projects i made using JavaScript.
