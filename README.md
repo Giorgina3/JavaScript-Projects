@@ -1,2 +1,2 @@
 # JavaScript-Projects
-This repository is containing projects that i did during the course of Web and Development 
+This repository is containing some small projects i made using JavaScript
